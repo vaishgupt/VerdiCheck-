@@ -11,7 +11,7 @@ function HomePage() {
   
   const handleStartAnalysis = () => {
     // Simple page redirect - works without any external libraries
-    window.location.href = '/main';
+    window.location.href = '/Main';
     
 
   };

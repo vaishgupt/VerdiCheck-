@@ -83,7 +83,7 @@ function App() {
    <BrowserRouter>
       <Routes>
     <Route path="/" element={<HomePage />} />
-    <Route path="/main" element={<Main />} />
+    <Route path="/Main" element={<Main />} />
       </Routes>
     </BrowserRouter>
   </div>
