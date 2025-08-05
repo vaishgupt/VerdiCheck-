@@ -74,7 +74,8 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import HomePage from "./components/Home";
-import Main from "./components/main";
+import Main from './components/Main';
+
 
 function App() {
  return(
